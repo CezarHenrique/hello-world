@@ -1,3 +1,3 @@
 # hello-world
-Rerpositíro hello World
+Rerpositório Hello Mundo
  Criado pr Cezar Henrique da Costa e Souza
